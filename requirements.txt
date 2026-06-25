@@ -1,0 +1,5 @@
+bedrock-agentcore
+langchain
+langchain-community
+langchain-openai
+openai
